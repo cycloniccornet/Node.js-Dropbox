@@ -1,0 +1,40 @@
+.form-box {
+    padding: 100px 0;
+    color: #f1f1f1;
+}
+
+#form-upload button {
+    display: block;
+    background-color: transparent;
+    color: #227ca8;
+    font-size: 16px;
+    border: 2px solid #227ca8;
+    padding: 14px 80px;
+    margin-left: 25%;
+    margin-right: auto;
+}
+
+#form-upload button:hover {
+    color: #fff;
+    background-color: #227ca8;
+    transition: 1s;
+}
+
+#form-message {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 50px;
+    background-color: #353b48;
+    border: none;
+    padding: 20px;
+    border-radius: 4px;
+    min-height: 200px;
+    resize: vertical;
+    color: #fff;
+}
+
+
+

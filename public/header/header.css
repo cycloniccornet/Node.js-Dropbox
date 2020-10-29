@@ -1,0 +1,27 @@
+.navbar {
+    position: relative;
+    background-color: #353b48;
+    width: 100%;
+    padding: 20px 0;
+    top: 0;
+    transition: 3s linear;
+}
+
+.inner-navbar {
+    max-width: 1300px;
+    margin: auto;
+    padding: 0 40px;
+}
+
+.navbar .inner-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#logo-img {
+    width: 8%;
+}
+
+.navbar-menu a {
+    color: #fff;
+}
